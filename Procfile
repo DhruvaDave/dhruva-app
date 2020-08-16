@@ -1,0 +1,1 @@
+web : gunicorn dhruva-app.wsgi --log-file -
